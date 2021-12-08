@@ -5,7 +5,7 @@ new Vue({
     },
     methods: {
         sayHy : function(){
-            return `hello world im mohamed and now im learning Vue Js ${this.message}` ; 
+            return `Hy ${this.message}` ; 
         }
     },
 })
